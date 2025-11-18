@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋 I'm Hasib Parvez</h1>
 
 <p align="center">
-  <img src="(https://imgur.com/IYy0eEt)" alt="Hasib Profile Picture" width="220" style="border-radius: 15px;">
+  <img src="(https://www.facebook.com/photo/?fbid=122138342396649977&set=pob.61569499329711)" alt="Hasib Profile Picture" width="220" style="border-radius: 15px;">
 </p>
 
 ---
