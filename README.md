@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋 I'm Hasib Parvez</h1>
 
 <p align="center">
-  <img src="(https://imgur.com/a/xCGEgzT)" alt="Hasib Profile Picture" width="220" style="border-radius: 15px;">
+  <img src="(https://imgur.com/IYy0eEt)" alt="Hasib Profile Picture" width="220" style="border-radius: 15px;">
 </p>
 
 ---
@@ -11,7 +11,7 @@
 - 🌱 I’m learning MERN Stack (React, Node, Express, MongoDB)  
 - 🤝 I love collaborating on Web Projects  
 - 💬 Ask me about JavaScript & React  
-- 📫 Email: **your_email@gmail.com**  
+- 📫 Email: **hasibparvez999@gmail.com**  
 - ⚡ Fun fact: I break things to learn how they work 😄  
 
 ---
